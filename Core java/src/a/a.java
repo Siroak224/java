@@ -12,5 +12,7 @@
  }
  void defaultMethod() {
  System.out.println("I am default method from AB");
+ System.out.println("I am default method from AB");
+ System.out.println("I am default method from AB");
  }
  }
