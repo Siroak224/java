@@ -26,5 +26,6 @@ public class Arraylisttest {
 		String value= languages.get(0);
 		System.out.println(value);
 		System.out.println("Gay thant oak soe");
+		System.out.println("Gay phyo ngwe soe");
 	}
 }
