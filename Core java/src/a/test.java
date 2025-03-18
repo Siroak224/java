@@ -8,5 +8,8 @@ package a;
  ab.publicMethod();
  b ba=new b();
  ba.publicMethod();
+ System.out.println("I am default method from AB");
+ System.out.println("I am default method from AB");
+ System.out.println("I am default method from AB");
  }
  }
